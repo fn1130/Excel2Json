@@ -7,12 +7,12 @@ Extracts a Excel worksheet to Json. This tool is based on Python and the [openpy
 - Install [virtualenv](https://virtualenv.pypa.io/en/stable/)
 - Create python3 environment with
 ```shell
-virtualenv -p python3 ~/ENV-Python3
-source ~/ENV-Python3/bin/activate
+$ virtualenv -p python3 ~/ENV-Python3
+$ source ~/ENV-Python3/bin/activate
 ```
 - Install openpyxl with
 ```shell
-pip install openpyxl
+$ pip install openpyxl
 ```
 ### Windows
 For Windows follow instructions on [virtualenv for Windows](https://virtualenv.pypa.io/en/stable/userguide/#activate-script)

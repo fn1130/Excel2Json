@@ -15,7 +15,11 @@ $ source ~/ENV-Python3/bin/activate
 $ pip install openpyxl
 ```
 ### Windows
-For Windows follow instructions on [virtualenv for Windows](https://virtualenv.pypa.io/en/stable/userguide/#activate-script)
+For Windows follow instructions on [virtualenv for Windows](https://virtualenv.pypa.io/en/stable/userguide/#activate-script)^
+
+This is **bold**, *italic*. ~~strike~~, ~Test~
+
+<font color="red">This is some text in red!</font>
 
 
 
